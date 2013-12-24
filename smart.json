@@ -1,0 +1,10 @@
+{
+  "name": "errors",
+  "description": "A pattern to display application errors to the user",
+  "homepage": "https://github.com/cyberis/meteor-errors",
+  "author": "Christopher Bortz <christopher.bortz@gmail.com>",
+  "version": "0.2.0",
+  "git": "https://github.com/cyberis/meteor-errors.git",
+  "packages": {
+  }
+}
